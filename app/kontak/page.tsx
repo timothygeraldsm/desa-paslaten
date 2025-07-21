@@ -73,17 +73,18 @@ export default function Kontak() {
               </Card>
 
               <div className="space-y-6">
-                <div className="relative h-[300px] rounded-lg overflow-hidden shadow-lg">
-                  <div className="absolute inset-0 bg-muted flex items-center justify-center">
-                    <div className="text-center p-6">
-                      <h3 className="font-medium mb-2">Peta Lokasi Desa Paslaten Satu</h3>
-                      <p className="text-sm text-muted-foreground mb-4">Koordinat: 1.2884°LU, 124.5579°BT</p>
-                      <p className="text-xs text-muted-foreground">
-                        Link Google Maps: https://maps.app.goo.gl/ZCYhcZYoobFVTGw6A
-                      </p>
-                    </div>
-                  </div>
-                </div>
+                <div className="space-y-6">
+  <div className="relative h-[300px] rounded-lg overflow-hidden shadow-lg">
+    <iframe
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63820.45130022757!2d124.59301800000001!3d1.3083109999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3287615272d7be0d%3A0x6c30a703c0b4e8db!2sPaslaten%20Satu%2C%20Tatapaan%2C%20South%20Minahasa%20Regency%2C%20North%20Sulawesi!5e0!3m2!1sen!2sid!4v1753085004958!5m2!1sen!2sid"
+      className="absolute top-0 left-0 w-full h-full border-0"
+      allowFullScreen=""
+      loading="lazy"
+      referrerPolicy="no-referrer-when-downgrade"
+    ></iframe>
+  </div>
+</div>
+
 
                 <Card>
                   <CardContent className="p-6">
