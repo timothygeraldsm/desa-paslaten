@@ -10,6 +10,12 @@ import { JagaStatistics } from "@/components/ui/jaga-statistics"
 
 // Sample timeline data
 const historyData = [
+   {
+    year: "Letak Geografis & Asal Usul Nama",
+    title: "Asal Usul Nama 'Paslaten'",
+    description:
+      "Desa Paslaten Satu terletak di pesisir selatan Kabupaten Minahasa Selatan, tepatnya di Kecamatan Tatapaan. Nama Paslaten berasal dari kata lokal “Pasletan” yang berarti “diapit” atau “diselipkan”, merujuk pada letak geografis desa yang berada di antara dua sungai kecil dan dua wilayah lain, menjadikannya jalur perlintasan sejak dahulu.",
+  },
   {
     year: "Sebelum Kemerdekaan",
     title: "Pemukiman Awal",

@@ -27,7 +27,7 @@ export default function Home() {
             </div>
             <div className="relative h-[300px] md:h-[400px] rounded-lg overflow-hidden shadow-xl">
               <Image
-                src="/placeholder.svg?height=400&width=600"
+                src="/foto/tugu.jpeg"
                 alt="Desa Paslaten Satu"
                 fill
                 className="object-cover"
@@ -72,7 +72,7 @@ export default function Home() {
         <div className="section-padding content-container">
           <div className="grid md:grid-cols-2 gap-12 lg:gap-16 items-center">
             <div className="relative h-[300px] md:h-[400px] rounded-lg overflow-hidden shadow-lg">
-              <Image src="/placeholder.svg?height=400&width=600" alt="Budaya Desa" fill className="object-cover" />
+              <Image src="/foto/dodol.jpeg" alt="Budaya Desa" fill className="object-cover" />
             </div>
             <div className="space-y-6">
               <h2 className="text-3xl md:text-4xl font-bold leading-tight">Kekayaan Budaya dan Tradisi</h2>

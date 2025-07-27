@@ -5,44 +5,24 @@ export default function Galeri() {
   // Sample gallery data
   const photos = [
     {
-      src: "/placeholder.svg?height=400&width=600",
-      alt: "Pantai Desa",
-      caption: "Keindahan pantai di Desa Paslaten Satu",
+      src: "/foto/tugu.jpeg",
+      alt: "Tugu Selamat Datang",
+      caption: "Tugu Selamat Datang di Desa Paslaten Satu",
     },
     {
-      src: "/placeholder.svg?height=400&width=600",
-      alt: "Nelayan",
-      caption: "Aktivitas nelayan di pagi hari",
+      src: "/foto/musyawarah.jpeg",
+      alt: "Musyawarah Desa",
+      caption: "Aktivitas Musyawarah desa yang melibatkan warga",
     },
     {
-      src: "/placeholder.svg?height=400&width=600",
-      alt: "Pertanian",
+      src: "/foto/lahan.jpeg",
+      alt: "Lahan Pertanian",
       caption: "Lahan pertanian warga desa",
     },
     {
-      src: "/placeholder.svg?height=400&width=600",
-      alt: "Tarian Tradisional",
-      caption: "Pertunjukan tarian tradisional",
-    },
-    {
-      src: "/placeholder.svg?height=400&width=600",
-      alt: "Perayaan Desa",
-      caption: "Perayaan hari jadi desa",
-    },
-    {
-      src: "/placeholder.svg?height=400&width=600",
-      alt: "Kuliner Lokal",
-      caption: "Hidangan khas Minahasa",
-    },
-    {
-      src: "/placeholder.svg?height=400&width=600",
-      alt: "Pertemuan Warga",
-      caption: "Musyawarah desa",
-    },
-    {
-      src: "/placeholder.svg?height=400&width=600",
-      alt: "Pemandangan",
-      caption: "Pemandangan alam sekitar desa",
+      src: "/foto/dodol.jpeg",
+      alt: "Dodol Khas Minahasa",
+      caption: "Makanan Dodol Khas Minahasa",
     },
   ]
 
